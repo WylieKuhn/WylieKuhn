@@ -1,7 +1,7 @@
 # Wylie Kuhn  
 
 ## About Me  
-### Second year Computer Information Systems student at Baruch College in NYC. 
+### Third year Computer Information Systems student at Baruch College in NYC. 
 - Director of software development for the Baruch College Associates of Information Systems club.  
   
 ### Coding  
